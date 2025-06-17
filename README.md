@@ -21,4 +21,5 @@ Mein Ziel ist es, kontinuierlich neue Programmiersprachen und Technologien zu le
 
 
 📫 Kontakt: [behr.danny@web.de]
+
 🌐 Portfolio: [bald verfügbar]
