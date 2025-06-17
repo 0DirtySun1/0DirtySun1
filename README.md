@@ -17,5 +17,5 @@ Ich bin Fachinformatiker in Ausbildung (Anwendungsentwicklung) mit Leidenschaft 
 ## 💡 Ziel
 Ich suche ab Juli 2026 eine Stelle im Bereich Webentwicklung – bevorzugt remote oder hybrid. Am liebsten in einem motivierten, technologieoffenen Team, das Wert auf Eigeninitiative legt.
 
-📫 Kontakt: [deine Mail]  
+📫 Kontakt: [behr.danny@web.de]
 🌐 Portfolio: [bald verfügbar]
