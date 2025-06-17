@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, ich bin Danny!
 
-<!--
-**0DirtySun1/0DirtySun1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich bin Fachinformatiker in Ausbildung (Anwendungsentwicklung) mit Leidenschaft für praktische Lösungen in Web, Embedded und UI-Design.
 
-Here are some ideas to get you started:
+## 🔧 Stack & Tools
+- Python (Flask, FastAPI, Django), HTML/CSS/JS, React (in progress)
+- C# (Windows Forms), C für STM32, Arduino
+- Golang (aktuell im Lernen), Rust (nächster Schritt)
+- Android (Kotlin GUI-Projekte)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projekte
+- Produktions-Webapp für Datenbankanbindung (Flask, SQL)
+- Laserplottersteuerung (C#/LaserGRBL + STM32)
+- Android-Oberfläche für Förderprojekt
+- Geplant: Augensteuerbarer Rollstuhl mit Embedded-UI
+
+## 💡 Ziel
+Ich suche ab Juli 2026 eine Stelle im Bereich Webentwicklung – bevorzugt remote oder hybrid. Am liebsten in einem motivierten, technologieoffenen Team, das Wert auf Eigeninitiative legt.
+
+📫 Kontakt: [deine Mail]  
+🌐 Portfolio: [bald verfügbar]
